@@ -1,0 +1,12 @@
+# Archivos temporales del editor y del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+~$*
+
+# Credenciales y dependencias si se incorporan más adelante
+.env
+.env.*
+!.env.example
+node_modules/
